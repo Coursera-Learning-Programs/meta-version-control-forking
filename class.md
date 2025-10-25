@@ -1,2 +1,3 @@
 # meta-version-control-forking-lab
-Maxim Velichkin
+Maxim 
+Meta Frontend Developer
