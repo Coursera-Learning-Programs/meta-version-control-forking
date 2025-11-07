@@ -1,5 +1,3 @@
-# meta-version-control-forking-lab
-Name: Priya
-Name: Priya
-Name: Ashwin w
+Name: Ashwin
+Location: Virudhunagar, TN
 Certification: Meta Full Stack Developer
