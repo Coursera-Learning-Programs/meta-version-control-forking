@@ -1,8 +1,6 @@
 # meta-version-control-forking-lab
 
+Soumyajit Halder
+Meta Frontend
 
-
-\# Soumyajit Halder
-
-\# Meta front end
 
