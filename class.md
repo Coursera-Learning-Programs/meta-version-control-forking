@@ -1,2 +1,13 @@
-Lucas
-Meta Front-End Developer Certificate
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fushsia
+Purple
+Brown
+Red
