@@ -10,4 +10,4 @@ Silver
 Fushsia
 Purple
 Brown
-Red
+RedGreen
