@@ -1,1 +1,4 @@
-# meta-version-control-forking-lab
+name: my-name
+location:
+my-location
+certificate: my-certificate
