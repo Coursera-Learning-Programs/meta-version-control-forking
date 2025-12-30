@@ -1,3 +1,3 @@
-Name: Shivanand
-Location: India
-Certification: Frontend
+Shivanand
+India
+Front end
