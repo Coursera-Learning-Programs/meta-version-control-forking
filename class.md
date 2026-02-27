@@ -1,4 +1,4 @@
 # meta-version-control-forking-lab
 Manuel Torres
-Chicago, Illinois
+Chicago, IL
 Meta Backened Developer
