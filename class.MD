@@ -1,2 +1,1 @@
-# meta-version-control-forking-lab
 Jean Wilmet, Uccle, Front-end developer
