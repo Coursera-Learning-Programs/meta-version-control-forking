@@ -1,1 +1,1 @@
-# meta-version-control-forking-lab
+Zubaida Meta developer course
