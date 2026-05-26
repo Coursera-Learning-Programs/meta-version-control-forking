@@ -1,1 +1,3 @@
-# meta-version-control-forking-lab
+First Name: Upeka
+Location: Riga, Latvia
+Certification: Meta Full Stack Development
