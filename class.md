@@ -1,3 +1,3 @@
 # meta-version-control-forking-lab
-# Orhan
-# Git Forking Certification
+Orhan
+Git Forking Certification
